@@ -75,13 +75,13 @@ No changes. Your infrastructure matches the configuration.
 ```hcl
 all_vms_info = {
   "db" = {
-    "external_ip" = "51.250.x.x"
-    "fqdn" = "netology-develop-platform-db.ru-central1-b.internal"
+    "external_ip" = "89.169.191.201"
+    "fqdn" = "epd1766flj29apth4lb1.auto.internal"
     "instance_name" = "netology-develop-platform-db"
   }
   "web" = {
-    "external_ip" = "51.250.x.x"
-    "fqdn" = "netology-develop-platform-web.ru-central1-a.internal"
+    "external_ip" = "158.160.53.216"
+    "fqdn" = "fhm2js1dsb0i3jvqhk39.auto.internal"
     "instance_name" = "netology-develop-platform-web"
   }
 }
