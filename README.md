@@ -10,8 +10,8 @@
 - Web: `158.160.53.216`
 - DB: `89.169.191.201`
 
-![Скриншот ЛК Yandex Cloud](screnshots/yc.png)
-![Скриншот консоли с curl ifconfig.me](screnshots/curl.png)
+![Скриншот ЛК Yandex Cloud](screenshots/yc.png)
+![Скриншот консоли с curl ifconfig.me](screenshots/curl.png)
 
 ### Ответы на вопросы
 
